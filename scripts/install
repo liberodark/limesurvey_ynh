@@ -53,7 +53,7 @@ ynh_save_args domain admin is_public language final_path prefix path_url db_name
 #=================================================
 ynh_script_progression --message="Installing dependencies..." --time --weight=1
 
-ynh_install_app_dependencies $pkg_dependencies
+ynh_install_app_dependencies php-cli php-imap python-pip php-gd php-ldap
 
 #=================================================
 # CREATE A SQL BDD
