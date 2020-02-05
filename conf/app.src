@@ -1,7 +1,7 @@
-SOURCE_URL=https://www.limesurvey.org/stable-release?download=2809:limesurvey411%20200203zip
-SOURCE_SUM=dd62c4016e221c64e89ca538d63340c7ac362a49e04c946fd07d84ccd4eb7517
+SOURCE_URL=https://www.limesurvey.org/stable-release?download=2808:limesurvey411%20200203targz
+SOURCE_SUM=994cfb04c4ec34f15bfa841dd489414086d7057435551109d4402c1d7a20ae96
 SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=zip
+SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
 SOURCE_EXTRACT=true
-SOURCE_FILENAME=limesurvey.zip
+SOURCE_FILENAME=limesurvey.tar.gz
