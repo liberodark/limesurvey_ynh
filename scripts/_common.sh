@@ -6,8 +6,6 @@
 # App package root directory should be the parent folder
 PKG_DIR=$(cd ../; pwd)
 
-pkg_dependencies="php5-cli php5-imap python-pip php5-gd php5-ldap"
-
 #=================================================
 # SPECIFIC HELPERS
 #=================================================
