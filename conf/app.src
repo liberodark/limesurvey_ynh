@@ -1,3 +1,7 @@
-SOURCE_URL=https://github.com/LimeSurvey/LimeSurvey/archive/3.17.1+190408.tar.gz
-SOURCE_SUM=a2c63a5a28f7f724f5bd7017959caf76e845c7fce9d8b1177075d030641fdbac
-SOURCE_FILENAME=limesurvey-3.17.1+190408.tar.gz
+SOURCE_URL=https://www.limesurvey.org/stable-release?download=2809:limesurvey411%20200203zip
+SOURCE_SUM=dd62c4016e221c64e89ca538d63340c7ac362a49e04c946fd07d84ccd4eb7517
+SOURCE_SUM_PRG=sha256sum
+SOURCE_FORMAT=zip
+SOURCE_IN_SUBDIR=true
+SOURCE_EXTRACT=true
+SOURCE_FILENAME=limesurvey.zip
